@@ -16,7 +16,7 @@ As a former HR and Chief of Staff professional, I have always looked for innovat
 Taking part in internal Digital Commerce and Platform training inspired me to improve my tech skills, so I joined Codebar, a charity that runs free regular programming workshops for underrepresented groups in tech. I had such a positive experience coding that ended up doing a full-stack Software Engineering bootcamp. 
 <br/>
 
-I am now a [Makers Academy](https://makers.tech/) 🎓 graduate looking to start a tech career. See below for my CV, and for highlights of my professional skills from peers and managers, please check my [LinkedIn Recommendations](https://www.linkedin.com/in/juliana-nocchi-b4a882222/details/recommendations/?detailScreenTabIndex=0).
+I am now a [Makers Academy](https://makers.tech/) 🎓 graduate looking to start a tech career. See below for my [CV](https://github.com/junocchi/CV), and for highlights of my professional skills from peers and managers, please check my [LinkedIn Recommendations](https://www.linkedin.com/in/juliana-nocchi-b4a882222/details/recommendations/?detailScreenTabIndex=0).
 </div>
 
 ### ⚙️ Tech Skills
