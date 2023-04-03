@@ -7,10 +7,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/juliana-nocchi)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junocchi@gmail.com)](mailto:junocchi@gmail.com)
 
-### About me
+### 😃 About me
 
 <div style="text-align: justify">  
-As a former HR and Chief of Staff professional, I have always looked for innovative technology 💻 😃 to boost productivity and elevate employees' experience. For 7+ years I worked closely with senior management to develop and implement policies, create and maintain a strong organizational culture, attract and retain talented employees, and ensure that the company remained compliant with relevant laws and regulations.
+As a former HR and Chief of Staff professional, I have always looked for innovative technology 💻 to boost productivity and elevate employees' experience. For 7+ years I worked closely with senior management to develop and implement policies, create and maintain a strong organizational culture, attract and retain talented employees, and ensure that the company remained compliant with relevant laws and regulations.
 <br/>
 
 Taking part in internal Digital Commerce and Platform training inspired me to improve my tech skills, so I joined Codebar, a charity that runs free regular programming workshops for underrepresented groups in tech. I had such a positive experience coding that ended up doing a full-stack Software Engineering bootcamp. 
@@ -18,6 +18,18 @@ Taking part in internal Digital Commerce and Platform training inspired me to im
 
 I am now a [Makers Academy](https://makers.tech/) 🎓 graduate looking to start a tech career. See below for my CV, and for highlights of my professional skills from peers and managers, please check my [LinkedIn Recommendations](https://www.linkedin.com/in/juliana-nocchi-b4a882222/details/recommendations/?detailScreenTabIndex=0).
 </div>
+
+### ⚙️ Tech Skills
+- 🧰 Version Control: Git
+- 🔨 Tools: Visual Studio Code, Postman, TablePlus
+- 🌐 Web Dev: HTML, CSS, Tailwind CSS
+- ✨ UI/UX: Figma, Canva
+- 📜 JavaScript: JavaScript, React, npm, Node.js, Express, Jest
+- 💎 Ruby: Ruby, Ruby on Rails
+- 🪒 C#: C#
+- 📱 Mobile Dev: iOS, Expo Go, React Native
+- 💾 Database: PostgreSQL, MongoDB
+- 🧪 Testing: Cypress
 
 ### ⚡️ A Few Quick Facts
 
@@ -31,19 +43,3 @@ I am now a [Makers Academy](https://makers.tech/) 🎓 graduate looking to start
 - 📙 Connect with me on [LinkedIn](https://www.linkedin.com/in/juliana-nocchi)
 - 🎉 Other interests: I ❤️ Travelling 🗺️, Learning about Functional Nutrition 🥑, Playing Volleyball 🏐 & Watercolour Painting 🎨
 <br/>
-
-
-<!--
-**junocchi/junocchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
