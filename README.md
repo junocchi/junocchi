@@ -33,8 +33,7 @@ I am now a [Makers Academy](https://makers.tech/) 🎓 graduate looking to start
 
 ### ⚡️ A Few Quick Facts
 
-- ⚙️ I’m currently building cool programs with friends at [Pensano](pensano.dev)
-- 🌱 I’m currently learning C# and Phyton
+- ⚙️ I’m currently building cool programs with friends at [Pensano](pensano.dev) and learning C#
 - 🚀 I am at my best when
   - 🧭 I have a clear sense of direction and purpose
   - 👯 I can work collaboratively
