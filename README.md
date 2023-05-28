@@ -20,14 +20,14 @@ I am now a [Makers Academy](https://makers.tech/) 🎓 graduate looking to start
 
 ### Tech Skills
 🧰 Version Control: Git<br/>
-🔨 Tools: Visual Studio Code, Postman, TablePlus<br/>
+🔨 Tools: Eclipse, Visual Studio Code, Postman, TablePlus<br/>
 🌐 Web Dev: HTML, CSS<br/>
 ✨ UI/UX: Figma, Canva<br/>
 📜 JavaScript: JavaScript, React, npm, Node.js, Express, Jest<br/>
 💎 Ruby: Ruby<br/>
 📱 Mobile Dev: iOS, Expo Go, React Native<br/>
 💾 Database: PostgreSQL, MongoDB<br/>
-🧪 Testing: Cypress<br/>
+🧪 Testing: JUnit, Jest, Cypress, RSpec<br/>
 
 ### A Few Quick Facts
 
