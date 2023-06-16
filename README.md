@@ -20,17 +20,18 @@ I am now a [Makers Academy](https://makers.tech/) 🎓 graduate looking to start
 
 ### Tech Skills
 🧰 Version Control: Git<br/>
-🔨 Tools: Eclipse, Visual Studio Code, Postman, TablePlus<br/>
+🔨 Tools: Visual Studio Code, Eclipse, Postman<br/>
 🌐 Web Dev: HTML, CSS<br/>
-✨ UI/UX: Figma, Canva<br/>
+✨ UI/UX: Figma(learning), Canva<br/>
 📜 JavaScript: JavaScript, React, npm, Node.js, Express, Jest<br/>
 💎 Ruby: Ruby<br/>
 📱 Mobile Dev: iOS, Expo Go, React Native<br/>
-💾 Database: PostgreSQL, MongoDB<br/>
+💾 Database: PostgreSQL, MongoDB, MySQL Workbench, TablePlus<br/>
 🧪 Testing: JUnit, Jest, Cypress, RSpec<br/>
 
-### A Few Quick Facts
+### Quick Facts
 
-⚙️ I’m currently building programs with friends at [Pensano](https://pensano.dev/)<br/>
+⚙️ I enjoy building programs with friends at [Pensano](https://pensano.dev/)<br/>
 🚀 I am at my best when: I have a clear sense of direction and purpose, I can work collaboratively, I can work in a supportive environment, and when I am able to produce high-quality work and feel fulfilled in my role<br/>
-🎉 Other interests: Travelling, Playing Volleyball & Watercolour Painting
+🎉 Interests: Travelling & Watercolour Painting<br/>
+🏐 Sports: Beach Volleyball and Dodgeball (🥇 first place mixed league 2023)
