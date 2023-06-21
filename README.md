@@ -17,7 +17,7 @@ See below for my [CV](https://github.com/junocchi/CV), and for highlights of my 
 
 ### ⚙️ Tech Skills
 • OOP, TDD, Agile and Pair Programming <br/>
-• CSS, HTML, Java, JavaScript, Jest, JUnit, Maven, React,  Ruby, Spring Boot, SQL, VCS (Git and GitHub) <br/>
+• CSS3, HTML5, Java, JavaScript, Jest, JSON, JUnit, Maven, React,  RESTful APIs, Ruby, Spring Boot, SQL, VCS (Git and GitHub) <br/>
 • Have been exposed to C#, Cypress, Expo Go, ExpressJS, Figma, MongoDB, NodeJS, and React Native <br/>
 
 ### Quick Facts
