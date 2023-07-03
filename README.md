@@ -17,12 +17,16 @@ See below for my [CV](https://github.com/junocchi/CV), and for highlights of my 
 
 ### ⚙️ Tech Skills
 • OOP, TDD, Agile and Pair Programming <br/>
-• CSS3, HTML5, Java, JavaScript, Jest, JSON, JUnit, Maven, React,  RESTful APIs, Ruby, Spring Boot, SQL, VCS (Git and GitHub) <br/>
+• CSS3, HTML5, Java, JavaScript, Jest, JSON, JUnit, React,  RESTful APIs, Ruby, Spring Boot, SQL, VCS (Git and GitHub) <br/>
 • Have been exposed to C#, Cypress, Expo Go, ExpressJS, Figma, MongoDB, NodeJS, and React Native <br/>
 
-### Quick Facts
-🤗 I enjoy building programs with friends at [Pensano](https://pensano.dev/)<br/>
-🚀 I am at my best when: I have a clear sense of direction and purpose, I can work collaboratively, I can work in a supportive environment, and when I am able to produce high-quality work and feel fulfilled in my role<br/>
-🎉 I am interested in Art exhibitions and watercolour painting<br/>
-🏐 I play Beach Volleyball and Dodgeball (🥇 first place mixed league Spring 2023)
+## 🏆 Tech Achievements
+- Part of the winning team of the Cisco prize "Empowering Accessibility & Inclusion Through Innovation”, at the [Athena Hackathon 2023](https://www.showcode.io/athena)
+- Co-Founder of www.pensano.dev, a platform that empowers graduates to develop their skills by working collaboratively
+
+## 🎉 Quick Facts
+- Regular attendee of [Creative Mornings](https://creativemornings.com/), the world’s largest face-to-face creative community
+- Volunteer at [Codebar](https://codebar.io/), programming workshops for underrepresented groups in tech
+- I am interested in Art exhibitions and watercolour painting
+- I play beach volleyball & dodgeball (🥇 first place mixed league Spring 2023)
 
