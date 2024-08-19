@@ -17,8 +17,7 @@ See below for my [CV](https://github.com/junocchi/CV), and for highlights of my 
 
 ### ⚙️ Tech Skills
 - OOP, TDD, Agile and Pair Programming <br/>
-- CSS3, HTML5, Java, JavaScript, Jest, JSON, JUnit, React,  RESTful APIs, Ruby, Spring Boot, SQL, VCS (Git and GitHub) <br/>
-- Have been exposed to C#, Cypress, Expo Go, ExpressJS, Figma, MongoDB, NodeJS, and React Native <br/>
+- TypeScript, JavaScript, React, CSS3, HTML5, Jest, JUnit, React, RESTful APIs, MySQL, VCS (Git and GitHub) <br/>
 
 ## 🏆 Latest Tech News
 - Part of the winning team of the Cisco prize 🏆 "Empowering Accessibility & Inclusion Through Innovation” and of the Nationwide prize 🏆 “Highest Potential Impact” at the [Athena Hackathon 2023](https://www.showcode.io/athena) with Aura - a Mobile App that supports social inclusion by helping users find venues that cater to their specific needs, whether related to physical accessibility, neurological considerations, or creating the right ambience
@@ -29,4 +28,3 @@ See below for my [CV](https://github.com/junocchi/CV), and for highlights of my 
 - Volunteer coach and organiser at [Codebar](https://codebar.io/), a charity that provides programming workshops for underrepresented groups in tech
 - I am interested in art exhibitions and watercolour painting
 - I play beach volleyball & dodgeball (🥇 first place mixed league Spring 2023)
-
